@@ -6,6 +6,7 @@
  *
  * Return: array of strings
  */
+
 char **tokenizer(char *line)
 {
 	char *buf = NULL, *bufp = NULL, *token = NULL, *delim = " :\t\r\n";

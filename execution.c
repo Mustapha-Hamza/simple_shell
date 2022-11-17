@@ -6,6 +6,7 @@
  * @cmd:vector array of pointers to commands
  * Return: 0
  */
+
 void execution(char *cp, char **cmd)
 {
 	pid_t child_pid;

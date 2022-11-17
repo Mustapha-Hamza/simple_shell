@@ -7,6 +7,7 @@
  *
  * Return: no return
  */
+
 void exit_cmd(char **command, char *line)
 {
 	free(line);

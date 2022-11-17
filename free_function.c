@@ -6,6 +6,7 @@
  *
  * Return: no return
  */
+
 void free_buffers(char **buf)
 {
 	int i = 0;
